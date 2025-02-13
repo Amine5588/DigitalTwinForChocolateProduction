@@ -8,6 +8,7 @@ Documentation & Resources
 - [ChocoFactory Report](Livrable_%20ChocoFactory.pdf)  
 - [Project Requirements](Travail%20Demand%C3%A9.pdf)
 - ![Dashboard](dashboard.PNG)
+- ![Factory](Factory.PNG)
 
 ---
 
