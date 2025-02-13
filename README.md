@@ -83,10 +83,3 @@ This **Digital Twin** enables real-time monitoring, predictive analysis, and opt
 
 ## 8. Authors
 - **Med Amine Karoui**  
-"""
-
-# Save to a file
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully!")
