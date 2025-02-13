@@ -3,6 +3,10 @@
 ## 1. Introduction
 This project develops a **Digital Twin** for a **chocolate production system** using **AnyLogic** for simulation and **AWS cloud services** for real-time tracking. The Digital Twin integrates **supply chain management**, **production simulation**, and **real-time monitoring** to optimize efficiency and performance.
 
+Documentation & Resources
+- [Documentation: Cloud & Dashboard](Documentation%20Partie%20Cloud%20%26%20Dashboard.pdf)  
+- [ChocoFactory Report](Livrable_%20ChocoFactory.pdf)  
+- [Project Requirements](Travail%20Demand%C3%A9.pdf)  
 ---
 
 ## 2. System Overview
