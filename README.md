@@ -1,4 +1,4 @@
-readme_content = """# Digital Twin for Chocolate Production System
+# Digital Twin for Chocolate Production System
 
 ## 1. Introduction
 This project develops a **Digital Twin** for a **chocolate production system** using **AnyLogic** for simulation and **AWS cloud services** for real-time tracking. The Digital Twin integrates **supply chain management**, **production simulation**, and **real-time monitoring** to optimize efficiency and performance.
